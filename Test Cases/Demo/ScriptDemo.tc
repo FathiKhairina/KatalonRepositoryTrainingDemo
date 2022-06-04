@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ScriptDemo</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>880e30f1-c96b-4465-94cb-2176066e1dd2</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>2eb2cd45-fbba-4bef-be00-fac26d3ebdb1</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'John Doe'</defaultValue>
+      <description></description>
+      <id>2eb2cd45-fbba-4bef-be00-fac26d3ebdb1</id>
+      <masked>false</masked>
+      <name>variable</name>
+   </variable>
+</TestCaseEntity>
