@@ -17,6 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+'test'
 WebUI.openBrowser('')
 
 WebUI.navigateToUrl('http://demoaut.katalon.com/')
